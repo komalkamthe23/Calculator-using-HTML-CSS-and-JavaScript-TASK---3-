@@ -1,2 +1,12 @@
-# Personal-Portfolio
-A responsive personal portfolio website built using HTML and CSS. The website showcases my profile, skills ,projects, resume , and contacy information as a part of the CodSoft Web Development Internship. 
+# Calculator using HTML,CSS and JavaScript 
+# Features 
+- Addition
+- Subtraction
+- Multiplication
+- Division
+- Responsive Design
+- User-friendly interface
+  ## Technologies Used
+  -HTML
+  -CSS
+  -JavaScript
